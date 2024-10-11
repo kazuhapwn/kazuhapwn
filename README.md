@@ -1,11 +1,10 @@
+<!-- PROJECT LOGO -->
+<br />
 <div align="center">
-  Hi 👋! I'm Saku, a Developer from France
-  
-</div>
+  <img src="https://avatars.githubusercontent.com/u/161844377" alt="Profile Pic" width="80" height="80/>
+  </a>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/161844377" alt="Profile Pic" width="200"/>
-</div>
+<h3 align="center">Hi 👋! I'm Saku, a Developer from France</h3>
 
 | ![Saku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakusql&show_icons=true&theme=radical&card_width=400) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakusql&layout=compact&theme=radical&card_width=400) |
 | --- | --- |
