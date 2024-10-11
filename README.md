@@ -1,7 +1,7 @@
 # Hi 👋! I'm Saku, a Developer from France
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/ID_UTILISATEUR" alt="Profile Pic" width="200"/>
+  <img src="[https://avatars.githubusercontent.com/u/ID_UTILISATEUR](https://avatars.githubusercontent.com/u/161844377?s=400&u=a8be00aed5280fc48ace00f2841da72e38eef5d4&v=4)" alt="Profile Pic" width="200"/>
 </div>
 
 ## My GitHub Stats
