@@ -1,5 +1,6 @@
 <div align="center">
-  # Hi 👋! I'm Saku, a Developer from France
+  Hi 👋! I'm Saku, a Developer from France
+  
 </div>
 
 <div align="center">
@@ -10,7 +11,8 @@
 | --- | --- |
 
 <div align="center">
-  # Technologies
+  Technologies
+  
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
