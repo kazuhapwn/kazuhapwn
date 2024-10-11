@@ -4,10 +4,10 @@
   <img src="https://avatars.githubusercontent.com/u/161844377" alt="Profile Pic" width="200"/>
 </div>
 
-# Hi 👋! I'm slowassant, a Developer from [Location]
-
-| ![Saku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakusql&show_icons=true&theme=radical&card_width=400) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakusql&layout=compact&theme=radical&card_width=400) |
-| --- | --- |
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakusql&show_icons=true&theme=radical&card_width=400" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakusql&layout=compact&theme=radical&card_width=400&langs_count=5" style="height: 200px;" />
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
