@@ -6,8 +6,7 @@
 
 # Hi 👋! I'm slowassant, a Developer from [Location]
 
-![slowassant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slowassant&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowassant&layout=compact&theme=radical)
+![Saku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slowassant&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowassant&layout=compact&theme=radical)
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
