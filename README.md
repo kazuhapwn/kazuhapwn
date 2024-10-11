@@ -1,30 +1,27 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="Profile Pic" width="80" height="80"/>
+  <img src="https://avatars.githubusercontent.com/u/161844377" alt="Profile Pic" width="80" height="80"/>
   </a>
 
-<h3 align="center">project_title</h3>
-
+<h3 align="center">Hi 👋! I'm Saku, a Developer from France</h3>
   <p align="center">
-    project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
+
+<h3 align="center">About me</h3>
+  <p align="center">
   </p>
 </div>
 
 | ![Saku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakusql&show_icons=true&theme=radical&card_width=400) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakusql&layout=compact&theme=radical&card_width=400) |
 | --- | --- |
 
-<div align="center">
-  Technologies
+<h3 align="center">My Favorite Languages</h3>
+  <p align="center">
+  </p>
+</div>
   
 </div>
 <p align="center">
