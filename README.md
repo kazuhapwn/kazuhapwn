@@ -18,6 +18,11 @@
 | ![Saku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakusql&layout=compact&theme=radical) | ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=sakusql&theme=radical)
 | --- | --- |
 
+<br />
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Sakusql.png" alt="THM" width="500" height="135"/>
+  </a>
+
 <h3 align="center">My Favorite Languages</h3>
   <p align="center">
   </p>
