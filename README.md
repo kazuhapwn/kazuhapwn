@@ -5,10 +5,15 @@
   </a>
 
 <h3 align="center">Hi 👋! I'm Saku, a Developer from France</h3>
+
   <p align="center">
-    <br />
   </p>
 </div>
+
+<br />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakusq" alt="Views" width="140" height="30"/>
+  </a>
 
 <h3 align="center">About me</h3>
   <p align="center">
