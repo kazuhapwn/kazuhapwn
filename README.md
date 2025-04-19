@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/161844377" alt="Profile Pic" width="80" height="80"/>
   </a>
 
-<h3 align="center">Hi 👋! I'm Saku, a Student in Cybersecurity and a Vulnerability researcher 🐛</h3>
+<h3 align="center">Hi 👋! I'm Kazuha, a Student in Cybersecurity and a Vulnerability researcher 🐛</h3>
 
   <p align="center">
   </p>
