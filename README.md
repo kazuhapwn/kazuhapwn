@@ -20,7 +20,7 @@
   </p>
 </div>
 
-| ![Saku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazuhapwn&layout=compact&theme=radical) | ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuhapwn&theme=radical)
+| ![Saku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakusql&layout=compact&theme=radical) | ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=sakusql&theme=radical)
 | --- | --- |
 
 
