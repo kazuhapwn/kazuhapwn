@@ -12,7 +12,7 @@
 
 <br />
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakusql" alt="Views" width="140" height="30"/>
+  <img src="https://komarev.com/ghpvc/?username=kazuhapwn" alt="Views" width="140" height="30"/>
   </a>
 
 <h3 align="center">About me</h3>
