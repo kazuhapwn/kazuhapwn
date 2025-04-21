@@ -12,7 +12,7 @@
 
 <br />
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kazuhapwn" alt="Views" width="140" height="30"/>
+  <img src="https://komarev.com/ghpvc/?username=sakusql" alt="Views" width="140" height="30"/>
   </a>
 
 <h3 align="center">About me</h3>
@@ -20,7 +20,7 @@
   </p>
 </div>
 
-| ![Saku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakusql&layout=compact&theme=radical) | ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=sakusql&theme=radical)
+| ![Saku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazuhapwn&layout=compact&theme=radical) | ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuhapwn&theme=radical)
 | --- | --- |
 
 
