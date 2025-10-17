@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/161844377" alt="Profile Pic" width="80" height="80"/>
   </a>
 
-<h3 align="center">Hi 👋! I'm Kazu, a Student in Cybersecurity and a Vulnerability researcher, i also enjoy  threat hunting and digital forensics 🐛</h3>
+<h3 align="center">Hi 👋! I'm Kazu, a Student in Cybersecurity and a Vulnerability researcher, I also enjoy  threat hunting and digital forensics 🐛</h3>
 
   <p align="center">
   </p>
